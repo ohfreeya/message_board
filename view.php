@@ -28,6 +28,6 @@
         echo "共" . mysqli_num_rows($result) . "筆留言";
         ?>
     </center>
-</body>
+</body> 
 
 </html>
