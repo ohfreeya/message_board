@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="UTF-8">
@@ -14,6 +13,6 @@
         <input type="submit" value="submit">
         <input type="reset" value="reset">
     </form>
-</body> 
+</body>
 
 </html>
